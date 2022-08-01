@@ -1,4 +1,8 @@
-# Hi there 👋
+# Hello World! 👋 I'm William
+
+Full-stack web developer eager to find new ways to engineer innovative and intuitive user experiences. With a colorful background in music, education, and supply chain, I bring to the table a fresh perspective towards communication and problem-solving. Expertise working in small teams to accomplish objectives acquired in team truck driving and warehouse work. My passion for finding creative solutions to real-world problems is what brought me to web development.
+
+Be sure to check out my <a href='https://wingram1.github.io/portfolio'>portfolio</a> while you're here!
 
 <!--
 **wingram1/wingram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,10 +71,11 @@ Here are some ideas to get you started:
 
 # Contact Me
 
-<a href='https://www.linkedin.com/in/wingram1/'>
+<p align="center">
+<a style="margin: 0 50px;" href='https://www.linkedin.com/in/wingram1/'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt="LinkedIn"/>
 </a>
-
-<a href='mailto:waingram96@gmail.com'>
+<a style="margin: 0 50px;" href='mailto:waingram96@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
 </a>
+</p>
