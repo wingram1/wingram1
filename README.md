@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm William
 
-Full-stack web developer eager to find new ways to engineer innovative and intuitive user experiences. With a colorful background in music, education, and supply chain, I bring to the table a fresh perspective towards communication and problem-solving. Expertise working in small teams to accomplish objectives acquired in team truck driving and warehouse work. My passion for finding creative solutions to real-world problems is what brought me to web development.
+Full stack web developer eager to find new ways to engineer innovative and intuitive user experiences. With a colorful background in music, education, and supply chain, I bring to the table a fresh perspective towards communication and problem-solving. Expertise working in small teams to accomplish objectives acquired in team truck driving and warehouse work. My passion for finding creative solutions to real-world problems is what brought me to web development.
 
 Be sure to check out my <a href='https://wingram1.github.io/portfolio'>portfolio</a> while you're here!
 
