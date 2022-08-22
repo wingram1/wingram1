@@ -4,21 +4,6 @@ I'm a full stack web developer eager to find new ways to engineer innovative and
 
 Be sure to check out my <a href='https://wingram1.github.io/portfolio'>portfolio</a> while you're here!
 
-<!--
-**wingram1/wingram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
-
-
-
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wingram1&theme=tokyonight" alt="Wingram1's GitHub Stats" />
 </p>
