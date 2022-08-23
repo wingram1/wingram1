@@ -61,6 +61,9 @@ Be sure to check out my <a href='https://wingram1.github.io/portfolio'>portfolio
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
+<!-- TypeScript -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 # Contact Me
 
 <p align="center">
