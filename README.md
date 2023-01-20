@@ -5,13 +5,13 @@ I'm a full stack web developer eager to find new ways to engineer innovative and
 Be sure to check out my <a href='https://wingram1.github.io/portfolio'>portfolio</a> while you're here!
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wingram1&theme=tokyonight" alt="Wingram1's GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wingram1&theme=tokyonight" alt="Wingram1's GitHub Stats" />
 </p>
 
 # Proficiencies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wingram1&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wingram1&layout=compact" alt="Top Languages" />
 </p>
 
 ## Front-end
